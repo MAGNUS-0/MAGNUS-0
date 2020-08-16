@@ -2,7 +2,6 @@
 
 _I work with signals. In particularly, audio._
 <div align="center">
-  <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif"/>
 </div>
 
 ## 🔭 I’m currently working on ...
