@@ -1,19 +1,20 @@
 # MAGNUS-0
 
-_I work with signals. In particularly, audio._
+_I work with all kinds of projects that catch my eye._
 <div align="center">
 </div>
 
 ## 🔭 I’m currently working on ...
-_Mainly Modern C++ for real-time signal processing and machine learning._ 
+_Modern C++ for quantitative solutions._ 
 
-_But experienced with web, embedded, mobile and backend service development._
+_Experienced with web, embedded, mobile and backend service development._
 
 
 ## 💬 Ask me about ...
-- Machine Learning (traditional non-linear regression approaches or neural networks!)
+- DeFi
+- Machine Learning
 - Audio/Digital Signal Processing
-- Computational Science with C++
+- Computational Science
 
 <!--
 **MAGNUS-0/MAGNUS-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
